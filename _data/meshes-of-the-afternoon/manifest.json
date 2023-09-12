@@ -23,6 +23,48 @@
         "id": "https://stephanieaparicio.github.io/meshes-afternoon/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://stephanieaparicio.github.io/meshes-afternoon/annotations/meshes-of-the-afternoon-canvas-1-00-01-20.json",
+            "label": {
+              "none": ["00:01:20"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://stephanieaparicio.github.io/meshes-afternoon/annotations/meshes-of-the-afternoon-canvas-1-00-09-04.json",
+            "label": {
+              "none": ["00:09:04"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://stephanieaparicio.github.io/meshes-afternoon/annotations/meshes-of-the-afternoon-canvas-1-00-08-54.json",
+            "label": {
+              "none": ["00:08:54"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://stephanieaparicio.github.io/meshes-afternoon/annotations/meshes-of-the-afternoon-canvas-1-00-09-11.json",
+            "label": {
+              "none": ["00:09:11"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://stephanieaparicio.github.io/meshes-afternoon/annotations/meshes-of-the-afternoon-canvas-1-00-01-00.json",
+            "label": {
+              "none": ["00:01:00"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://stephanieaparicio.github.io/meshes-afternoon/meshes-of-the-afternoon/canvas-1/paintings",
